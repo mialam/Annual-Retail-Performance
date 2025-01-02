@@ -1,0 +1,10 @@
+# Introduction
+
+In 2023, I initiated a project to enhance the way we evaluate retail performance by creating an interactive Power BI dashboard. This tool replaced traditional static reports, offering a more dynamic, user-friendly way to visualize key business metrics. The dashboard provides an easily interpretable, yet comprehensive, overview of sales trends, allowing users to drill down into specifics or view a high-level summary for faster decision-making. 
+
+A key challenge in this project was the absence of data for November and December, which could have compromised the accuracy of the analysis. To address this, I excluded these two months from the dashboard, ensuring the data remained relevant and reliable. The data modelling process involved splitting the initial dataset into multiple tables using a star schema to improve data management and analysis. 
+These tables are interconnected through relationships, enhancing query performance and data exploration. 
+
+A standout feature of the dashboard was tracking the top monthly patterns contributing significantly to sales on a daily basis. Updated in real-time, this data was prominently displayed, enabling us to closely monitor these key trends. It provided valuable insights into seasonal sales fluctuations, demand trends, and product performance, helping to optimize inventory and marketing strategies based on peak sales periods.
+
+This project transformed how we analyze and report on retail performance. By excluding the months with missing data and utilizing advanced data modelling, the dashboard has become an essential tool for the Sales department, empowering faster, data-driven decisions. The improved insights have also enhanced inventory and marketing strategies, enabling the business to respond more effectively to market trends.
